@@ -1,2 +1,4 @@
 # sha256-bruteforce-cpp
-A cpu (multithreaded) SHA256 hash bruteforcer
+This project is in alpha and for now only works with number passwords (will add the rest soon).
+
+Usage: sha256.o <hash> <threads>
